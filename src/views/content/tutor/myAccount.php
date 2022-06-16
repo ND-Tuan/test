@@ -20,7 +20,7 @@
                     </a>
                     <div style="width: 100%; height: 10px"></div>
                     <a href="<?php echo $actual_link ?>/tutor/change_password/">
-                        Thay đổi mật khẩu
+                        Đổi mật khẩu
                     </a>
                 </div>
             </div>
